@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ding-ding19": {
+      "hosting": {
+        "app": [
+          "ding-ding19"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ding-ding19"
+  }
+}
